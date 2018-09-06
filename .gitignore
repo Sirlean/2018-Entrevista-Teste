@@ -4,3 +4,6 @@
 
 /.vs/slnx.sqlite
 /packages
+/teste/bin
+/teste/obj/Debug
+/.vs
