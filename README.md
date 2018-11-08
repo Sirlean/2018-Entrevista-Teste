@@ -2,7 +2,7 @@
 Projeto objeto de entrevista. Utilizando ASP.Net WebForm e SQL Server.
 
 ## Enunciado 
-Criar uma aplicação em ASP.Net C# que liste funcionários em um GridView e permita por filtrar filiais listadas em um DropDownList.
+Criar uma aplicação em ASP.Net C# que liste funcionários em um *GridView* e permita filtrar por filiais listadas em um *DropDownList*.
 
 ### Pré-requisitos
 * Microsoft Visual Studio 2017
@@ -18,3 +18,6 @@ Criar uma aplicação em ASP.Net C# que liste funcionários em um GridView e per
 * Microsoft Visual Studio 2017
 * Git
 * GitHub
+
+## Autora
+* **Sirlean Souza** - *Entrevista 2018* - [2018-Entrevista-Teste](https://github.com/Sirlean/2018-Entrevista-Teste)
