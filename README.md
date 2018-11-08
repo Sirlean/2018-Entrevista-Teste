@@ -16,3 +16,5 @@ Criar uma aplicação em ASP.Net C# que liste funcionários em um GridView e per
 * SQL Server Express
 * Microsoft SQL Server Management Studio
 * Microsoft Visual Studio 2017
+* Git
+* GitHub
