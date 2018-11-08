@@ -20,4 +20,4 @@ Criar uma aplicação em ASP.Net C# que liste funcionários em um *GridView* e p
 * GitHub
 
 ## Autora
-* **Sirlean Souza** - *Entrevista 2018* - [2018-Entrevista-Teste](https://github.com/Sirlean/2018-Entrevista-Teste)
+* **[Sirlean Souza](https://github.com/sirlean)** - *Entrevista 2018* - [2018-Entrevista-Teste](https://github.com/Sirlean/2018-Entrevista-Teste)
